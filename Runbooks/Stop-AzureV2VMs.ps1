@@ -1,4 +1,4 @@
-<#
+<# asz new changes
 .SYNOPSIS
   Connects to Azure and stops of all VMs in the specified Azure subscription or resource group
 
