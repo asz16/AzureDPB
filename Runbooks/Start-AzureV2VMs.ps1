@@ -1,4 +1,4 @@
-<# new changes
+<# asz new changes
 .SYNOPSIS
   Connects to Azure and starts of all VMs in the specified Azure subscription or resource group
 
