@@ -1,4 +1,4 @@
-<# asz new changes
+<# asz
     .SYNOPSIS
         This Azure Automation runbook automates the scheduled shutdown and startup of virtual machines in an Azure subscription. 
 
